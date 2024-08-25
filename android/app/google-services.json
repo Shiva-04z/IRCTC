@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810873962575",
+    "project_id": "irctc6712",
+    "storage_bucket": "irctc6712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810873962575:android:f5992f5b5e2872cc0d2a3a",
+        "android_client_info": {
+          "package_name": "com.smartapps.irctc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP_Y3Q3FaxTHsRQoIK0xzYVhI32lgQWpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
