@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:get/get.dart';
+import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:irctc/features/splashscreen/splash_screen_controller.dart';
 
 class SplashScreenView extends GetView<SplashScreenController>
