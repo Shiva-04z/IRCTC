@@ -35,7 +35,7 @@ class LoginPageView extends GetView<LoginPageController> {
                   radius: 80,
                   backgroundColor: Colors.white,
                   child: Image(
-                    image: AssetImage('assets/logo3.png'),
+                    image: AssetImage('assets/images/logo3.png'),
                     height: 200,
                     width: 200,
                   ),
