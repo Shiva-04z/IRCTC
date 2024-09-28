@@ -8,6 +8,10 @@ class HomeScreenController extends GetxController
   {
     Get.offAllNamed(RoutesConstant.loginPage);
   }
+  toAdd()
+  {
+    Get.offAllNamed(RoutesConstant.addtrain);
+  }
 
 
 }

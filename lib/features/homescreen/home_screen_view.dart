@@ -15,6 +15,23 @@ class HomeScreenView extends GetView<HomeScreenController> {
         backgroundColor: Colors.deepOrange,
         surfaceTintColor: Colors.yellow,
       ),
+      body: Stack(
+        children: [
+          Container(),
+          Column(
+           children: [ Card(
+             child: InkWell(
+               child: Container(
+                 height: 50,
+                   width: 50,
+                   child: Text("Add Train")),
+               onTap: controller.toAdd(),
+             ),
+           )],
+          )
+
+        ]
+      )
     );
   }
 }

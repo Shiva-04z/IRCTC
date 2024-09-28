@@ -6,7 +6,7 @@ class RoutesConstant {
   static String signUpPage = "/signup_page_view.dart";
   static String searchPage="/searchsearch_page_view.dart";
   static String readPage="/passenger_list_page_view.dart";
-  static String addPassenger="/passenger_add_view.dart";
+  static String addtrain="/add_train_view.dart";
   static String updatePage="/edit_passenger_view.dart";
 
 

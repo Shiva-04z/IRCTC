@@ -41,6 +41,7 @@ dependencies:
   firebase_auth: ^5.1.4
   shared_preferences:
   google_sign_in:
+  cloud_firestore: ^5.3.0
 
 dev_dependencies:
   flutter_test:
